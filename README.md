@@ -10,9 +10,6 @@ Utilizamos um [assistant](https://platform.openai.com/docs/assistants/overview) 
 No caso do Gemini usamos um prompt pronto para instruções do modelo. </br>
 Esses prompts orientam o assistente sobre como responder de maneira coerente e personalizada, assegurando que as interações não só se mantenham relevantes e engajantes, mas também reflitam uma abordagem humana e natural na conversação.
 
-## 🚀 Como rodar o projeto
-[Vídeo mostrando como rodar](https://youtu.be/Sh94c6yn5aQ)
-
 ## 🧪 Informações
 
 Você pode testar o zap-gpt que está ativo neste [WhatsApp](https://wa.me/5551981995600)  </br>
